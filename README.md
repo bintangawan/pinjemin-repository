@@ -53,5 +53,5 @@
 
 ---
 
-> Proyek ini dikembangkan sebagai salah satu syarat untuk menyelesaikan program Coding Camp, yaitu Capstone Project
+> Proyek ini dikembangkan sebagai salah satu syarat untuk menyelesaikan program Coding Camp Powered by DBS Foundation 2025, yaitu Capstone Project
 
