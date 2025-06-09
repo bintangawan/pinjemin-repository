@@ -11,7 +11,7 @@
 - 🛒 **Checkout Terintegrasi** – Proses checkout mendukung transaksi **jual-beli dan sewa secara bersamaan**.
 - 🤝 **Transaksi COD (Cash on Delivery)** – Pembayaran dilakukan secara langsung saat penyerahan barang.
 - 📜 **Riwayat & Notifikasi Transaksi** – Semua aktivitas pengguna tercatat, dilengkapi dengan **notifikasi real-time**.
-- 🌟 **Penilaian & Ulasan Pengguna** – Fitur rating dan review untuk meningkatkan kepercayaan antar pengguna.
+- 🌟 **Penilaian & Ulasan Pengguna** – Fitur review untuk meningkatkan kepercayaan antar pengguna.
 - 💬 **Komentar & Obrolan Langsung** – Komunikasi langsung antar pengguna dalam satu platform.
 - 📍 **Lokasi & Janjian Pengambilan** – Tentukan tempat dan waktu pengambilan/penyerahan barang dengan mudah.
 - ⏰ **Pengingat Pengembalian Otomatis** – Sistem akan memberikan notifikasi saat batas waktu penyewaan mendekat.
@@ -69,7 +69,7 @@ Halaman awal aplikasi yang menampilkan informasi utama tentang fitur, manfaat, d
 <div align="center">
   <img src="images/register.png" alt="Register" />
 </div>  
-Formulir pendaftaran akun baru dengan antarmuka ramah pengguna. Mendukung pendaftaran melalui email maupun akun media sosial.
+Formulir pendaftaran akun baru dengan antarmuka ramah pengguna.
 
 ---
 
@@ -85,7 +85,7 @@ Tampilan login yang sederhana namun aman, memberikan akses cepat ke akun penggun
 <div align="center">
   <img src="images/home-page.png" alt="Home Page" />
 </div>  
-Dashboard utama yang menampilkan produk populer, kategori, dan rekomendasi personal. Navigasi intuitif memudahkan pengguna menjelajahi fitur yang tersedia.
+Dashboard utama yang menampilkan produk populer, kategori, dan rekomendasi personal product. Navigasi intuitif memudahkan pengguna menjelajahi fitur yang tersedia.
 
 ---
 
