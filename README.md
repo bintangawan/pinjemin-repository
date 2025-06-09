@@ -50,9 +50,9 @@
 
 - **Front-End**: [github.com/bintangawan/frontend-pinjemin](https://github.com/bintangawan/frontend-pinjemin)  
 - **Back-End**: [github.com/bintangawan/backend-pinjemin](https://github.com/bintangawan/backend-pinjemin)  
-- **Machine Learning**: [github.com/bintangawan/backend-ml-pinjemin](https://github.com/bintangawan/backend-ml-pinjemin.git)  
+- **Machine Learning FastAPI**: [github.com/bintangawan/backend-ml-pinjemin](https://github.com/bintangawan/backend-ml-pinjemin.git)  
 - **Machine Learning Express**: [github.com/bintangawan/exml-pinjemin](https://github.com/bintangawan/exml-pinjemin.git)
-
+- **Machine Learning Models**: [github.com/rahmnisaa/Capstone-Project-CodingCamp-DBS](https://github.com/rahmnisaa/Capstone-Project-CodingCamp-DBS.git)
 ---
 
 ## 📱 Tampilan Aplikasi
