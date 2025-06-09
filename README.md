@@ -149,7 +149,7 @@ Inventaris pribadi pengguna, menampilkan status masing-masing barang (tersedia, 
 <div align="center">
   <img src="images/buyer-page.png" alt="Buyer Page" />
 </div>  
-Dashboard khusus pembeli, menampilkan riwayat transaksi, status pesanan, serta jadwal pengambilan dan pengembalian.
+Dashboard khusus pembeli, menampilkan riwayat transaksi, status pesanan, serta navigasi ke detail product.
 
 ---
 
@@ -157,7 +157,7 @@ Dashboard khusus pembeli, menampilkan riwayat transaksi, status pesanan, serta j
 <div align="center">
   <img src="images/seller-page.png" alt="Seller Page" />
 </div>  
-Panel untuk penjual yang berisi statistik, permintaan pembeli/penyewa, serta notifikasi terkini.
+Panel untuk penjual yang berisi permintaan pembeli/penyewa, status pesanan, serta navigasi ke detail product.
 
 ---
 
@@ -169,4 +169,4 @@ Halaman profil pengguna dengan data pribadi, rating, ulasan, dan pengaturan akun
 
 ---
 
-> 🏁 Proyek ini dikembangkan sebagai bagian dari **Capstone Project** dalam **Coding Camp 2025** yang diselenggarakan oleh **DBS Foundation**.
+> 🏁 Proyek ini dikembangkan sebagai bagian dari **Capstone Project** dalam program **Coding Camp 2025 Powered by DBS Foundation**.
