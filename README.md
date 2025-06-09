@@ -49,9 +49,10 @@
 
 - **Front-End**: [github.com/bintangawan/frontend-pinjemin](https://github.com/bintangawan/frontend-pinjemin)
 - **Back-End**: [github.com/bintangawan/backend-pinjemin](https://github.com/bintangawan/backend-pinjemin)
-- **Machine Learning**: [github.com/indahsaa/backend-ml-pinjemin](https://github.com/indahsaa/backend-ml-pinjemin)
+- **Machine Learning**: [github.com/bintangawan/backend-ml-pinjemin](https://github.com/bintangawan/backend-ml-pinjemin.git)
+- **Machine Learning Express**: [github.com/bintangawan/exml-pinjemin](https://github.com/bintangawan/exml-pinjemin.git)
 
 ---
 
-> Proyek ini dikembangkan sebagai salah satu syarat untuk menyelesaikan program Coding Camp Powered by DBS Foundation 2025, yaitu Capstone Project
+> Proyek ini dikembangkan sebagai salah satu syarat untuk menyelesaikan program Coding Camp 2025 Powered by DBS Foundation, yaitu Capstone Project
 
